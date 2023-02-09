@@ -1,6 +1,11 @@
-print (' Hello World')
+print(' Hello World')
 # new print
-a = 84
+a = 56
 b = 56
-x = a-b
-print (x)
+# function sravnenia
+if a < b:
+    print('A < B')
+elif a > b:
+    print('A > B')
+else:
+    print('A = B')
