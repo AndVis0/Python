@@ -1,7 +1,4 @@
 print(' Hello World')
-# new print
-a = 56
-b = 56
 
 # f sravnenia
 
